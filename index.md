@@ -1,6 +1,6 @@
 ## Monarch Counter: An Automated Pipeline to Count Monarch Butterflies in Dense Clusters
 
-![Monarch Butterflies](/images/monarchs.jpg?raw=true)
+![Monarch Butterflies](/images/monarchs.png?raw=true)
 
 Every year, billions of animals undertake long-distance migrations to leave deteriorating habitats, escape parasites and predators, and benefit from available resources in multiple regions. Migrations across continents are one of the most fascinating phenomena that exist in nature. One of the most spectacular migrations is undertaken by the monarch butterfly in North America, with up to hundreds of millions of monarchs flying up to 3,000 miles to reach their overwintering grounds in Central Mexico. Monarch caterpillars are specialist feeders on milkweed plants, and breed between March and October across their 4.5 million km2 breeding range spanning the United States and southern Canada. Upon milkweed deterioration, diminishing daylight, and decreasing temperature, monarchs embark on their journey south to overwinter in Oyamel forests in the states of Mexico and Michoacán, where temperatures are mild enough to prevent freezing, but low enough to prevent high activity and premature depletion of lipid reserves. In early spring, monarchs mate and fly north to recolonize their breeding grounds over 2-4 successive generations.
 
