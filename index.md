@@ -1,4 +1,4 @@
-## Monarch Counter: An Automated Pipeline to Count Monarch Butterflies in Dense Clusters
+## An Automated Pipeline to Count Monarch Butterflies in Dense Clusters
 
 ![Monarch Butterflies](/images/monarchs.png?raw=true)
 
